@@ -1,0 +1,6 @@
+This project is based on Insurance managment Application in which a user can register himself and make a policy for himself also he can claim
+his money after placing an policy.
+This project has nearly 10-11 CRUD API's which are fully responsive and this improves the functionality of this project.
+I used springboot for making this project also i used jpa hibernate and databases dependiencies to make this project .
+i made separate packages for controller,service and repository layers , so that it will be easier for other developers to understand my code and also this 
+improves performance of my code and it will  not mess up.
